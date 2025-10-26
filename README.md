@@ -7,5 +7,8 @@ A-record pointing to Ubuntu 24.04 server
 ### Usage
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/mkultr44/invoiceninja-installer/refs/heads/main/ninja-installer.sh | sudo bash;
+sudo -i /
+wget https://raw.githubusercontent.com/mkultr44/invoiceninja-installer/refs/heads/main/ninja-installer.sh /
+chmod +x ninja-installer.sh /
+./ninja-installer.sh
 ```
