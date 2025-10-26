@@ -1,4 +1,4 @@
-## One line install script for Invoice Ninja on a server
+## One line install script for Invoice Ninja
 
 ### Requirements
 
