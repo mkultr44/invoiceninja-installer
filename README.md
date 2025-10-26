@@ -2,7 +2,7 @@
 
 ### Requirements
 
-A-record pointing to Debian 13 / Ubuntu 24.04 server
+A-record pointing to Ubuntu 24.04 server
 
 ### Usage
 
