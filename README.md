@@ -6,6 +6,8 @@ A-record pointing to Ubuntu 24.04 server
 
 ### Usage
 
+Copy and paste the complete command
+
 ```bash
 sudo -i /
 wget https://raw.githubusercontent.com/mkultr44/invoiceninja-installer/refs/heads/main/ninja-installer.sh /
