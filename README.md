@@ -2,7 +2,7 @@
 
 ### Requirements
 
-Domain and Debian 13 / Ubuntu 24.04
+Domain or subdomain A-record pointing to Debian 13 / Ubuntu 24.04 server
 
 ### Usage
 
