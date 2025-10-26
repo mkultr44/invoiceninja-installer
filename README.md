@@ -1,10 +1,10 @@
-##One line install script for Invoice Ninja on a server
+## One line install script for Invoice Ninja on a server
 
-###Requirements
+### Requirements
 
 Domain and Debian 13 / Ubuntu 24.04
 
-###Usage
+### Usage
 
 > curl -fsSL https://raw.githubusercontent.com/mkultr44/invoiceninja-installer/refs/heads/main/ninja-installer.sh | sudo bash
               
